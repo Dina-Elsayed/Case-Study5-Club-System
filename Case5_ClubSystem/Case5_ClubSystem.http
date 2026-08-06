@@ -1,0 +1,6 @@
+@Case5_ClubSystem_HostAddress = http://localhost:5101
+
+GET {{Case5_ClubSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
